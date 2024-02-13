@@ -11,7 +11,7 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title className='FadeInLeft'>Projects</Title>
         <Desc className='FadeInLeft'>
-          I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.
+           Here are some of the projects I have worked on. From Full stack to machine learning, I have worked on numerous small and large scale projects.
         </Desc>
         <ToggleButtonGroup className='FadeInLeft'>
           {toggle === 'all' ?
