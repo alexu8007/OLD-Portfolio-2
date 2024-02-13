@@ -1,10 +1,6 @@
-# My Awesome React Portfolio
+# My React Portfolio
 
 Welcome to my personal portfolio website built with ReactJS! 👋
-
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository)](https://github.com/your-username/your-repository/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repository)](https://github.com/your-username/your-repository/network)
-[![GitHub license](https://img.shields.io/github/license/your-username/your-repository)](https://github.com/your-username/your-repository/blob/main/LICENSE)
 
 ## 🚀 Live Demo
 
@@ -34,5 +30,5 @@ This portfolio website showcases my skills, projects, and experience in the worl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/alexu8007/Portfolio.git
+cd Portfolio
