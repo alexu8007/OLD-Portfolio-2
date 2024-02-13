@@ -4,7 +4,7 @@ Welcome to my personal portfolio website built with ReactJS! 👋
 
 ## 🚀 Live Demo
 
-Explore the live version of my portfolio [here](https://alexu8007.github.io/Portolio/)!
+Explore the live version of my portfolio [here](https://alexu8007.github.io/Portfolio/)!
 
 ## 📖 Overview
 
