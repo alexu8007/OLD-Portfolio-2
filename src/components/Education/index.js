@@ -84,7 +84,7 @@ const index = () => {
             <Wrapper>
                 <Title className='FadeInLeftt' >Education</Title>
                 <Desc className='FadeInRight' >
-                    My education has been a journey of self-discovery and growth. My educational details are as follows.
+                     My education, reigning from the prestigous University of Waterloo, has provided me with a strong foundation in computer science and software engineering.
                 </Desc>
                 <TimelineSection>
                     <Timeline>
