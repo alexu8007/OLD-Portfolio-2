@@ -2,7 +2,7 @@
   "name": "Alex Ungureanu",
   "version": "0.1.0",
   "proxy": "http://localhost:3000",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "https://alexungureanu.com",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
